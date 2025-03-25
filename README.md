@@ -37,8 +37,6 @@ K = E5
 L = F5
     
 M = F#5
-    
-(don't trust this tho.. just make the song by ear it sounds better.. those notes aren't accurate for some reason)
 
 numbers between each note is delay in ms
 might change to ticks in the future (1 tick = 50ms)
