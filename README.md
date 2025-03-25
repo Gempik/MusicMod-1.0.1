@@ -39,4 +39,3 @@ L = F5
 M = F#5
 
 numbers between each note is delay in ms
-might change to ticks in the future (1 tick = 50ms)
